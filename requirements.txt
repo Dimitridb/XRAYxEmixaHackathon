@@ -1,0 +1,11 @@
+#fastapi
+#uvicorn
+#pydantic
+#scikit-learn
+skl2onnx==1.11.0
+#onnx
+#matplotlib
+#jupyterlab
+#pandas
+lightgbm
+
